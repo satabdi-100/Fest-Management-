@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../wellpaper"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"c++(codeforce)": "cpp"
+		}
+	}
+}
